@@ -2,8 +2,8 @@ title: cv dabin florent
 email: dabinflorent@gmail.com
 description: > 
   CV dabin florent
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+baseurl: cv-dabin-florent
+url: "http://florentdab.github.io
 twitter_username: dabinflorent
 github_username:  florentdab
 
