@@ -1,0 +1,64 @@
+url: https://github.com/florentdab/cv-dabin-florent
+projectUrl: 
+
+person:
+  name: Dabin Florent
+  profesion:  padawan developer 
+  location: lyon
+  citizenship: France
+  email: dabinflorent@gmail.com
+  site: https://florentdab.github.io/positive-orientation/
+  phone: 0659055723
+  github: florentdab
+  twitter: dabinflorent
+
+career:
+ - position: employee
+   company: SHCB-Leon berard 
+   location: Lyon
+   dates: june 2014 - current
+   summary: The job consist to serve meal to patient into an hospital and care of them during the time meal.
+   accomplishments:
+    - accomplishment: This job to become more sociable with everybody.  
+    - accomplishment: This work's environment enhance my capacity to work in team because you must necessary work with auxiliary nurse, my crew member, nurse and patient's family. 
+
+technicalSkills:
+  list:
+    - tr: "Patient, creative and very enthusiastic"
+    - tr: "Curious, driven by learning knowledge"
+    - tr: "Pragmatic, rational"
+    - tr: "Teaching and sharing my experience"
+  backend:
+   - name: PHP
+     level: 5
+   - name: Python
+     level: 25
+  frontend:
+   - name: html
+     level: 80
+   - name: css
+     level: 70
+  other:
+   - name: Hiking
+     level: 90
+   - name: Travel for discover the world
+     level: 80
+
+sideProjects:
+  - name: Eole-positive-orientation
+    description: My first CMS and web site building. 
+    link: http://dabinflorent.wixsite.com/eole
+    type: wixsite
+    langs: CMS
+
+  - name: positive-orientation
+    description: My first blog with jekyll.
+    link: https://florentdab.github.io/positive-orientation/
+    type: jekyll site
+    langs: Liquid, markdown, scss.
+
+education:
+  - name: Law degree
+    degree: bac + 3
+    location: lyon
+    dates: 2012 – 2015
